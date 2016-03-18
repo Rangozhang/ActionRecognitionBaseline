@@ -1,0 +1,10 @@
+datasources
+datasources/*
+checkpoint
+checkpoint/*
+imagenet-multiGPU.torch
+imagenet-multiGPU.torch/*
+pretrained
+pretrained/*
+Untitled.ipynb
+model.t7
