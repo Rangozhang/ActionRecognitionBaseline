@@ -8,3 +8,4 @@ pretrained
 pretrained/*
 Untitled.ipynb
 model.t7
+mean/nin_nobn_final.t7
